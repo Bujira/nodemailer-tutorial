@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bujira <yurifcorrea@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15"
+  }
+}
