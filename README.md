@@ -1,5 +1,5 @@
 # nodemailer-tutorial
-A simple Nodemailer tutorial using Ethereal to send fake emails.
+A simple Nodemailer tutorial to send fake emails.
 
 ### starting the server
 yarn dev
